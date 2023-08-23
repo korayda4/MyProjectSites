@@ -110,7 +110,7 @@ img:hover {
     position: fixed;
     z-index: 5;
     top: -15px;
-    border-radius: 12px;
+    border-radius: 24px;
     width: 90px;
     image-rendering: auto;
     border: solid 2px rgba(212, 212, 212, 0.473);
@@ -187,4 +187,5 @@ img:hover {
 		transform: translateY(0);
 	}
 }
+
 

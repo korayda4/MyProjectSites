@@ -36,7 +36,7 @@ async function addProject() {
 
 
 function sumAllProject() {
-    sumProject.innerHTML = `Total Project: ${projectList.children.length}`
+    sumProject.innerHTML = `<h3>Total Project: ${projectList.children.length}</h3>`
 }
 
 function bindClick() {
